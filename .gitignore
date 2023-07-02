@@ -1,0 +1,29 @@
+# JetBrains IDEs
+/.idea
+/*.iml
+/.classpath
+/.project
+/.settings
+
+# Compiled output
+/out
+
+# Maven
+/.mvn
+/target
+
+# Gradle
+/.gradle
+/build/
+
+# SBT
+/.sbt
+/.idea_modules/
+
+
+# Visual Studio Code
+.vscode
+
+# Operating Systems
+.DS_Store
+Thumbs.db
